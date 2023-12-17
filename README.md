@@ -10,7 +10,7 @@ This repository will contain all of the documentation related to this project. T
 * Basil Evelyn - [GitHub](https://github.com/Copperlitt) , [LinkedIn](https://www.linkedin.com/in/basil-evelyn-455201262/)
 * Nathalie Abdallah - GitHub , LinkedIn
 * Arturo Laguna - GitHub , LinkedIn
-* Zachariah Woodbridge - GitHub , LinkedIn
+* Zachariah Woodbridge - [GitHub](https://github.com/Z-Zachattack) , [LinkedIn](https://www.linkedin.com/in/zachariahw/)
 
 
 # Project Management
