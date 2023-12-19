@@ -16,6 +16,9 @@ This repository will contain all of the documentation related to this project. T
 
 <br>
 
+
+![IMG_3490](https://github.com/JingLbyte/documentation/assets/143548087/7e537adb-ff33-463a-be07-af7f75b3b880)
+
 # Project Management
 [Trello Board](https://trello.com/invite/b/1UHKRjwA/ATTI3f4b8479c5d90897269b5d53cc52bbf8244DF362/301-project)
 
