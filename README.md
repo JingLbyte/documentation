@@ -21,6 +21,6 @@ This repository will contain all of the documentation related to this project. T
 [Slideshow](https://docs.google.com/presentation/d/1GrBF-00GLaq4SpJLDRJQhwG9uGaHQL4bNxNlpmU1zbY/edit?usp=sharing)
 
 # Repositories
-* [Documentation](https://github.com/JingLbyte/documentation)
+* [Documentation](https://github.com/JingLbyte/documentation/blob/main/sop.md)
 * [Presentations](https://github.com/JingLbyte/Presentation)
 * [Scripts](https://github.com/JingLbyte/Scripts)
