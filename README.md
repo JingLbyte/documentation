@@ -1,6 +1,8 @@
 # Welcome to our Documentation repository
 This repository will contain all of the documentation related to this project. This will include our team agreement document, system selection document and our growing cache of SOPs. Below you will find our team members with links to thier Linkedin and Github profiles. We have also added links to our Trello project management board and other related information.
 
+[Topology Picture]
+
 
 
 
