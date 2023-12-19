@@ -8,7 +8,7 @@ This repository will contain all of the documentation related to this project. T
 
 | Matthew Earles | Zachariah Woodbridge | Arturo Laguna | Nathalie Abdallah |
 |:----------------------:|:-----------------------:|:----------------------:|:----------------------:|
-| [Linkedin](www.linkedin.com/in/matthew-earles) | [Linkedin](https://www.linkedin.com/in/zachariahw/) | [Linkedin](https://www.linkedin.com/in/arturo-laguna-81129320a) | [Linkedin](https://www.linkedin.com/in/nataliabdallah) 
+| [Linkedin](https://www.linkedin.com/in/matthew-earles)| [Linkedin](https://www.linkedin.com/in/zachariahw/) | [Linkedin](https://www.linkedin.com/in/arturo-laguna-81129320a) | [Linkedin](https://www.linkedin.com/in/nataliabdallah) 
 | [Github](https://github.com/Matt01965)| [Github](https://github.com/Z-Zachattack) | [Github](https://github.com/Random9904) | [Github](https://github.com/nataliabdallah) 
 
 <br>
