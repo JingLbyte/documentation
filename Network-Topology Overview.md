@@ -13,6 +13,23 @@
 | Last IP:      | 10.10.10.254    | 10.10.20.254    | 10.10.30.254    | 10.10.40.254 |
 | Broadcat IP:  | 10.10.10.255    | 10.10.20.255    | 10.10.30.255    | 10.10.40.255 |
 
+
+The following chart describes the leases and sections of the Network Configuration. As shown, there is an emphasis on 'human-readable' configurations. While the Central Server has some differences in IP Address Leases, all sections conform to the same standard. This provides simple overlook of the network, while also emphasizing granularity and security. At any time, depending on desired use, access can be removed or granted by lease group. This allows the Network Admin to secure sites, sections, and leases independently.
+
+| Lease Type    | VLAN 10 Start   | VLAN 10 End     | VLAN 20 Start   | VLAN 20 End     | VLAN 30 Start | VLAN 30 End     | VLAN 40 Start   | VLAN 40 End     |
+| ------------- | :-------------: | :-------------: | :-------------: | :-------------: | ------------- | :-------------: | :-------------: | :-------------: |
+| Infrastructure:  | 10.10.10.1   | 10.10.10.99     | 10.10.20.1      | 10.10.20.9      | 10.10.30.1    | 10.10.30.9      | 10.10.40.1      | 10.10.40.9      |
+| Device Pool:  | N/A  | N/A     | 10.10.20.1      | 10.10.20.9      | 10.10.30.1    | 10.10.30.9      | 10.10.40.1      | 10.10.40.9      |
+| DHCP:   |  10.10.10.100   | 10.10.10.199     | 10.10.20.100      | 10.10.20.199      | 10.10.30.100    | 10.10.30.199      | 10.10.40.100      | 10.10.40.199      |
+| Internal/IoT:  |  10.10.10.200   | 10.10.10.254     | 10.10.20.200      | 10.10.20.254      | 10.10.30.200    | 10.10.30.254      | 10.10.40.200      | 10.10.40.254      |
+
+A clear, written explanation and justification your network design.
+Include a table or chart of network infrastructure and configuration details (yes, this will overlap with your topology -- you must document your network in both ways):
+
+Firewall rules
+Roles and IP address of all important devices (everything but endpoints)
+
+
 ### Subnet Details:
 
 - **Subnet Range:** 10.10.0.0/18
